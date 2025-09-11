@@ -1,5 +1,5 @@
 
-![Banner](https://darikami.vercel.app/viaQris.jpg)
+![Banner](/public/banner.png)
 
 # viaQris ~ Dinamis
 
